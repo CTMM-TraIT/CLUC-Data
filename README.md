@@ -25,5 +25,9 @@ To showcase the metadata mapping in the paper **Systematically Linking t￼ranSM
 we prepare a tranSMART server. You can visit it via [https://transmart.ctmm-trait.nl](https://transmart.ctmm-trait.nl)
 or [transmart.thehyve.net](http://transmart.thehyve.net).(Username: cluc_data, password: test_case)
 
-## Paper on CLUC data
-A paper on CLUC data is currently prepared. More information to follow.  
+## How to reference CLUC data
+Currently, you could reference CLUC data by the URL <a href="http://cluc.trait-platform.org/" target="_blank">cluc.trait-platform.org</a> or the paper:
+
+> Hoogstrate Y, Zhang C, Senf A, Bijlard J, Hiltemann S, van Enckevort D, et al. Integration of EGA secure data access into Galaxy. F1000Res [Internet]. 2016 Dec 12 [cited 2016 Dec 21];5. Available from: https://f1000research.com/articles/5-2841/v1/pdf
+
+Preferably and eventually, you need to refer to the CLUC data paper, which is still in preparation. More information to follow soon. 
