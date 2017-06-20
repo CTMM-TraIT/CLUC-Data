@@ -30,4 +30,4 @@ Currently, we are preparing a data submission manuscript to fully describe and r
 
 Until this data set will become citable, you can refer to the following paper:
 
-> Hoogstrate Y, Zhang C, Senf A, Bijlard J, Hiltemann S, van Enckevort D, et al. Integration of EGA secure data access into Galaxy. F1000Res [Internet]. 2016 Dec 12 [cited 2016 Dec 21];5. Available from: https://f1000research.com/articles/5-2841/v1/pdf
+> Hoogstrate Y, Zhang C, Senf A, Bijlard J, Hiltemann S, van Enckevort D, et al. Integration of EGA secure data access into Galaxy. F1000Res [Internet]. 2016 Dec 12 [cited 2016 Dec 21];5. Available from: https://f1000research.com/articles/5-2841/v1/
