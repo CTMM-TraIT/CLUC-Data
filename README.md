@@ -3,16 +3,16 @@ domain: cluc.trait-platform.org
 
 ## What is CLUC dataset
 
-Cell Line Use Case (CLUC) Dataset is a bunch of privacy-free high-throughput biomolecular profiling data provided by TraIT. This dataset serves as test data for developing and testing data management systems of translational research without the issues of privacy. The dataset includes results obtained from various high-resolution molecular profiling technology, such as microarrays, next generation sequencing and tandem mass spectrometry. Both raw and processed data have been made available for testing purposes of biomedical research IT platforms.
+Cell Line Use Case (CLUC) Dataset is a set of privacy-free high-throughput biomolecular profiling data provided by TraIT. This dataset serves as test data for developing and testing data management systems of translational research without the issues of privacy. The dataset includes results obtained from various high-resolution molecular profiling technology, such as microarrays, next generation sequencing and tandem mass spectrometry for several human cell-lines. Both the raw and processed data have been made available for testing purposes of biomedical research IT platforms.
 
 ![The content of the dataset](https://github.com/CicoZhang/CLUC-Data-HomePage/blob/master/pics/cluc.png)
 
 ## Raw CLUC data
 
 The raw data are made public in EGA via this [link](https://ega-archive.org/studies/EGAS00001001476). You need to contact EGA
-Helpdesk for the access to the data.
+Helpdesk for access to the data.
 
-Alternatively, you can get the whole copy of raw data from [Beehub](https://beehub.nl/TraIT-Datateam/Data/Cell%20Line%20use%20case/). You need
+Alternatively, you can get a copy of all raw data from [Beehub](https://beehub.nl/TraIT-Datateam/Data/Cell%20Line%20use%20case/). You need
 to contact TraIT service desk for the authorisation.
 
 ## Processed CLUC data
