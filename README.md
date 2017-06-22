@@ -5,7 +5,7 @@ domain: cluc.trait-platform.org
 
 Cell Line Use Case (CLUC) Dataset is a set of privacy-free high-throughput biomolecular profiling data provided by TraIT. This dataset serves as test data for developing and testing data management systems of translational research without the issues of privacy. The dataset includes results obtained from various high-resolution molecular profiling technology, such as microarrays, next generation sequencing and tandem mass spectrometry for several human cell-lines. Both the raw and interpreted data have been made available for testing purposes of biomedical research IT platforms.
 
-![The content of the dataset](https://github.com/CicoZhang/CLUC-Data-HomePage/blob/master/pics/cluc.png)
+<img src="https://github.com/CicoZhang/CLUC-Data-HomePage/blob/master/pics/cluc.png" alt="The content of the dataset" width=120%>
 
 ## Raw CLUC data
 
