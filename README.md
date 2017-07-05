@@ -12,18 +12,13 @@ Cell Line Use Case (CLUC) Dataset is a set of privacy-free high-throughput biomo
 The raw data are made public in EGA via this [link](https://ega-archive.org/studies/EGAS00001001476). You need to contact EGA
 Helpdesk for access to the data.
 
-Alternatively, you can get a copy of all raw data from [Beehub](https://beehub.nl/TraIT-Datateam/Data/Cell%20Line%20use%20case/). You need to contact TraIT service desk for the authorisation.
-
 ## Interpreted CLUC data
 Interpreted CLUC data are organized and uploaded into tranSMART v16.1. You can get a copy
 of tranSMART-ready data from this [link](https://trng-b2share.eudat.eu/records/21bdc3128e1541da83dc48c51cd39a5f),
 current version of tranSMART-ready data is also 16.1 [How to load tranSMART-ready data into tranSMART?](https://wiki.transmartfoundation.org/pages/viewpage.action?pageId=10879269) 
 
-
 ## A tranSMART server to showcase the metadata mapping
-To showcase the metadata mapping in the paper **Systematically Linking t￼ranSMART, Galaxy and EGA for Reusing Human Translational Research Data** (Chao Zhang et al.),
-we prepare a tranSMART server. You can visit it via [https://transmart.ctmm-trait.nl](https://transmart.ctmm-trait.nl)
-or [transmart.thehyve.net](http://transmart.thehyve.net).(Username: cluc_data, password: test_case)
+To showcase the metadata mapping in the paper **Systematically Linking t￼ranSMART, Galaxy and EGA for Reusing Human Translational Research Data** (Chao Zhang et al.), we have prepared a tranSMART server. You could visit it via [https://transmart-public.ctmm-trait.nl](https://transmart-public.ctmm-trait.nl) (Username: trait-guest, password: Tra1T-tranSMART)
 
 ## How to cite the CLUC data?
 Currently, we are preparing a data submission manuscript to fully describe and release the CLUC data.
